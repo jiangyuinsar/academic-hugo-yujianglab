@@ -31,7 +31,7 @@ education:
     institution: Liverpool University
     year: 2021
   - course: Geodetics
-    institution: China University of Petroleum \
+    institution: China University of Petroleum
                  & China Earthquake Administration
     year: 2017
   - course: Surveying and Mapping
