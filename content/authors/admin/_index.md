@@ -27,11 +27,11 @@ interests:
 
 education:
   courses:
-  - course: PhD in Geophysics
+  - course: Geophysics
     institution: Liverpool University
-    year: 2012
+    year: 2021
   - course: Geodetics
-    institution: China University of Petroleum & China Earthquake Administration
+    institution: China University of Petroleum <br /> & China Earthquake Administration
     year: 2017
   - course: Surveying and Mapping
     institution: China University of Petroleum
